@@ -104,7 +104,7 @@ $(document).ready(function () {
             } else {
                 $('section.navigation').removeClass('fixed');
                 $('header').css({
-                    "border-bottom": "solid 1px rgba(255, 255, 255, 0.2)",
+                    "border-bottom": "solid 1px rgba(204, 204, 204, 0.4)",
                     "padding": "50px 0"
                 });
                 $('header .member-actions').css({
