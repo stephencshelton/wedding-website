@@ -872,7 +872,7 @@ RSVP form
       -moz-border-radius: 5px;
       -webkit-border-radius: 5px;
       border-radius: 5px;
-      border: solid 1px $button-color;
+      border: solid 1px $keyline-color;
       text-align: left;
       position: relative;
 
@@ -884,7 +884,7 @@ RSVP form
         content: "";
         height: 30px;
         width: 1px;
-        border-right: solid 1px $button-color;
+        border-right: solid 1px $keyline-color;
         position: absolute;
         top: 50%;
         left: 30px;
