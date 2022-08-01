@@ -569,6 +569,27 @@ Features-stack
 }
 
 /* ==========================================================================
+.dress-code
+========================================================================== */
+.dress-code {
+  .leftcol {
+    padding-right: 100px;
+    border-right: solid 1px $keyline-color;
+  }
+  .rightcol {
+    padding-left: 100px;
+  }
+
+  .time {
+    font-size: 13px;
+    font-style: italic;
+    text-transform: lowercase;
+    color: $txt-primary;
+  }
+}
+
+
+/* ==========================================================================
 .blog
 ========================================================================== */
 .blog {
