@@ -102,21 +102,16 @@ $(document).ready(function () {
                     "top": "34px",
                 });
             } else {
-                $('section.navigation').addClass('fixed');
-                $('header').css({
-                    "border-bottom": "none",
-                    "padding": "35px 0"
-                });
-                /*$('section.navigation').removeClass('fixed');
+                $('section.navigation').removeClass('fixed');
                 $('header').css({
                     "border-bottom": "solid 1px rgba(204, 204, 204, 0.4)",
                     "padding": "50px 0"
-                });*/
+                });
                 $('header .member-actions').css({
-                    "top": "26px",
+                    "top": "41px",
                 });
                 $('header .navicon').css({
-                    "top": "34px",
+                    "top": "48px",
                 });
             }
         });
