@@ -113,10 +113,10 @@ $(document).ready(function () {
                     "padding": "50px 0"
                 });*/
                 $('header .member-actions').css({
-                    "top": "41px",
+                    "top": "26px",
                 });
                 $('header .navicon').css({
-                    "top": "48px",
+                    "top": "34px",
                 });
             }
         });
