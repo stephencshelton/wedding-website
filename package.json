@@ -20,6 +20,7 @@
   "homepage": "https://github.com/rampatra/wedding-website",
   "devDependencies": {
     "gulp": "^4.0.2",
+    "gulp-connect": "^5.7.0",
     "gulp-rename": "^1.4.0",
     "gulp-sass": "^4.0.2",
     "gulp-uglify": "^3.0.2"
